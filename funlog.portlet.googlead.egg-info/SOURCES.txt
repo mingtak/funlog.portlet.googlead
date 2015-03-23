@@ -1,0 +1,17 @@
+README.txt
+setup.py
+funlog/__init__.py
+funlog.portlet.googlead.egg-info/PKG-INFO
+funlog.portlet.googlead.egg-info/SOURCES.txt
+funlog.portlet.googlead.egg-info/dependency_links.txt
+funlog.portlet.googlead.egg-info/entry_points.txt
+funlog.portlet.googlead.egg-info/namespace_packages.txt
+funlog.portlet.googlead.egg-info/not-zip-safe
+funlog.portlet.googlead.egg-info/requires.txt
+funlog.portlet.googlead.egg-info/top_level.txt
+funlog/portlet/__init__.py
+funlog/portlet/googlead/__init__.py
+funlog/portlet/googlead/googlead.py
+funlog/portlet/googlead/tests/__init__.py
+funlog/portlet/googlead/tests/base.py
+funlog/portlet/googlead/tests/test_portlet.py
